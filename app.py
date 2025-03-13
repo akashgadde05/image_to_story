@@ -66,9 +66,9 @@ def main() -> None:
     st.markdown(css_code, unsafe_allow_html=True)
     st.image("PragyanAI_Transperent_github.png")
     with st.sidebar:
-        st.image("PragyanAI_Transperent_github.png")
-        st.write("AI App created by @ PragyanAI - Education Purpose")
-        st.write("Contact Sateesh Ambesange for 5 Days Workshop:pragyan.ai.school@gmail.com")
+        st.image("GADDE12.jpg")
+        st.write("AI App created by @ AKASH GADDE")
+        st.write("Contact AKASH GADDE for 5 Days Workshop:akashgadde05@gmail.com")
         st.write("TB - Story to Audio will be done Later")
     st.header("Image-to-Story Converter")
     uploaded_file: Any = st.file_uploader("Please choose a file to upload", type="jpg")
